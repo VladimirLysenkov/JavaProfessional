@@ -51,7 +51,6 @@ public class Main {
         arr[num2] = t;
     }
 
-
 // Написать метод, который преобразует массив в ArrayList;
 
     private static <T> ArrayList<T> toArrayList(T[] arr) {
